@@ -1,0 +1,1 @@
+import Annotation from "./src/Annotation.vue";
